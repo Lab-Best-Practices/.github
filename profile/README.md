@@ -23,4 +23,16 @@ Máy tính/ Laptop/ Máy trạm/ Server /Điện thoại/ Máy tính bảng
 
 Công nghệ/ AI/ Machine learning/ Deep learning/ Big data/ Quantum computing/ Cloud computing
 
+Lưu trữ source code/ git/ svn/ Github/ Gitlab/ Bitbucket/ Azure DevOps...
 
+Ngôn ngữ lập trình
+- Bậc thấp: Pascal/ 
+- Bậc cao: C/ C++/ Python/ Golang/ Ruby...
+
+Cloud computing
+- Big: AWS/ Aliyun/ GCP/ Azure
+- Small: Vultr/ Digital ocean/ Linode....
+
+#### DevOps
+
+Configuration management: Chef/ Ansible/ Salt/ Puppet
