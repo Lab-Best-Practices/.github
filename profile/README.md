@@ -13,7 +13,10 @@
 
 ### Lời nói đầu
 
-Lab Best Practices là sẽ là nơi lưu trữ và chia sẻ với tất cả mọi người về các bài Lab hữu ích phục vụ cho công việc, học tập và cuộc sống liên quan đến Công nghệ Thông tin
+Lab Best Practices là sẽ là nơi lưu trữ và chia sẻ với tất cả mọi người về các bài Lab hữu ích phục vụ cho công việc, học tập và cuộc sống liên quan đến Công nghệ Thông tin.
+
+Các tính năng đang xây dựng:
+- Một blog mà mọi người có thể đăng bài lên đó. Công nghệ sử dụng Github actions/ Github pages/ Hugo.
 
 ### Công nghệ Thông tin
 
