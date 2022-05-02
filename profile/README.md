@@ -13,4 +13,14 @@
 
 ### Tâm sự
 
-Lab Best Practices là nơi lưu trữ những Lab mà mình đã thực hiện
+Lab Best Practices là sẽ là nơi lưu trữ và chia sẻ với tất cả mọi người về các bài Lab hữu ích phục vụ cho công việc, học tập và cuộc sống liên quan đến Công nghệ Thông tin
+
+### Công nghệ Thông tin
+
+Ngành/ Phần mềm/ Kỹ thuật máy tính/ Mạng máy tính / An ninh mạng
+
+Máy tính/ Laptop/ Máy trạm/ Server /Điện thoại/ Máy tính bảng
+
+Công nghệ/ AI/ Machine learning/ Deep learning/ Big data/ Quantum computing/ Cloud computing
+
+
