@@ -37,3 +37,7 @@ Cloud computing
 
 Configuration management: Chef/ Ansible/ Salt/ Puppet
 CICD: Github actions/ Gitlab CI/ Jenkins/
+
+### Ref
+
+Xuân Thư LAB: https://xuanthulab.net
