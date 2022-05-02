@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Lab-Best-Practices 
 
 <!--
 
@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Tâm sự
+### Lời nói đầu
 
 Lab Best Practices là sẽ là nơi lưu trữ và chia sẻ với tất cả mọi người về các bài Lab hữu ích phục vụ cho công việc, học tập và cuộc sống liên quan đến Công nghệ Thông tin
 
@@ -36,3 +36,4 @@ Cloud computing
 #### DevOps
 
 Configuration management: Chef/ Ansible/ Salt/ Puppet
+CICD: Github actions/ Gitlab CI/ Jenkins/
